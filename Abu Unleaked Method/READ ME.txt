@@ -1,0 +1,14 @@
+THIS MULTI TOOL INCLUDES A NITRO GEN, BOOST BOT, DOX TOOL, AND BEAMING TOOL.
+
+
+In able to make this work u run the builder and then in the builder is gonna be the requirements.
+
+Once u have the requirements for example i have my python and stuff ready so next u get your webhook for the nitro gen or beaming tool or boost bot.
+
+Then test the webhook if its working your ready to press the compile buttom and itll auto start sending nitro or gonna give u boost alt accounts.
+
+
+For the beaming method your gonna recieve a file called unkown.exe or unkown.rar thats gonna be your beam file.
+
+
+Next u rename it to whatever u want and send to your victim
